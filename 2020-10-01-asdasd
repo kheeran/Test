@@ -1,0 +1,15 @@
+---
+layout: post
+current: post
+navigation: True
+class: post-template
+
+title: "asdasd"
+author: asdasdasd
+cover: asdasdas
+tags: dasdasdasd
+date: 2020-10-01
+link: "asdasdasda"
+disable-first-letter: False
+---
+<p>sdasdsadsad</p>
